@@ -6,5 +6,13 @@
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
 	"firstName": "Kirsten",
-	"lastName": "Bo"
+	"lastName": "Bo",
+	"angle": 24,
+	"thickness": 3.4,
+	"size": 80,
+	"height": "50",
+	"mColor": "hsl(30, 100%, 50%)",
+	"aColor": "hsl(330, 90%, 45%)",
+	"vColor": "hsl(85, 80%, 45%)",
+	"oColor": "hsl(200, 90%, 55%)"
 }
